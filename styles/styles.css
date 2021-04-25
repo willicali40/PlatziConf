@@ -31,6 +31,41 @@
   height: 100%;
 }
 
+.btn-platzi {
+  background-color: #97c93e;
+  color: white;
+}
+.btn-platzi:hover {
+  background-color: #7ca730;
+  color: white;
+}
+
+.badges .badge-warning {
+  background-color: #ffc107;
+}
+
+.badges .badge-info {
+  background-color: #0dcaf0;
+}
+
+#place-time {
+  background-color: #212529;
+  color: white;
+}
+
+.honolulu-img {
+  padding: 0;
+}
+
+#place-time img {
+  max-width: 100%;
+}
+
+#honolulu-text {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
 #footer {
   background: linear-gradient(90deg, #1c3643 0, #273b47 25%, #1e5372);
 }
